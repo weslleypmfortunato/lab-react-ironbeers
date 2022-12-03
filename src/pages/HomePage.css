@@ -1,0 +1,23 @@
+.homepage {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.homepage img {
+  margin: 5px;
+}
+
+.home-info {
+  margin-left: 20px;
+}
+
+.home-info span {
+  color: black;
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.home-info p {
+  color: rgb(173, 173, 173);
+}
